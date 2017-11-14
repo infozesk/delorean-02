@@ -9,6 +9,7 @@ Une surface de verre pour ne pas se faire décoiffer.
 - nombre: 1
 - bug fixed
 - filtre anti uv
+- deperlant
 
 ## Fabricant
 
