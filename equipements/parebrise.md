@@ -8,6 +8,7 @@ Une surface de verre pour ne pas se faire décoiffer.
 - transparence: 97%
 - nombre: 1
 - bug fixed
+- filtre anti uv
 
 ## Fabricant
 
