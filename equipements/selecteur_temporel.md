@@ -7,10 +7,11 @@ Permet de saisir la date de destination du voyage temporel.
 - nombre de cadrans: 3
 - Précision: minute
 
+
 ## Fabricant
 
 Emmett Brown
 
 ## Bug connus
 
-- La date de destination "saute", provoquant des voyages à des dates aléatoires.
+- La date de destination "saute", provoquant des voyages à des dates aléatoires. > OK
