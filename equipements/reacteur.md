@@ -6,6 +6,7 @@ Fourni les 2.21Gigowatts de puissance.
 
 - carburant: plutonium
 - puissance nominale: 2.21Gigowatts
+- detritus
 
 ## Fabricant
 
